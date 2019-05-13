@@ -5,6 +5,9 @@
       <change beforePath="$PROJECT_DIR$/xadia/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xadia/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xadia/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xadia/frontend/src/actions/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/frontend/src/actions/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xadia/frontend/src/reducers/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/frontend/src/reducers/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xadia/frontend/src/types/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/frontend/src/types/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xadia/webpack-stats.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/webpack-stats.dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xadia/xadia/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/xadia/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xadia/xadia/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xadia/xadia/urls.py" afterDir="false" />
@@ -47,37 +50,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xadia/notes/api.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#1#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xadia/notes/endpoints.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xadia/xadia/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <element signature="e#629#661#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557505011083</updated>
-      <workItem from="1557505015665" duration="2264000" />
+      <workItem from="1557505015665" duration="2265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2264000" />
+    <option name="totallyTimeSpent" value="2265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -265,16 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xadia/notes/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#1#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xadia/notes/endpoints.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -291,6 +260,16 @@
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadia/notes/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#1#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
