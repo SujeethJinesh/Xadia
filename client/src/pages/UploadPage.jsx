@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
+import { Navbar } from '../components';
 
-
+/**
+ * This is where the user uploads their dataset
+ */
 class UploadPage extends Component {
 
     constructor(props) {
@@ -13,7 +16,7 @@ class UploadPage extends Component {
 
     render() {
         return (
-            <div>Upload Data</div>
+            <Navbar></Navbar>
         )
     }
 

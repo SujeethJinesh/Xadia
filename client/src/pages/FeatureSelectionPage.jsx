@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
+import { Navbar } from '../components';
 
-
+/**
+ * User selects features from this page.
+ */
 class FeatureSelectionPage extends Component {
 
     constructor(props) {
@@ -13,7 +16,7 @@ class FeatureSelectionPage extends Component {
 
     render() {
         return (
-            <div>Feature Selection</div>
+            <Navbar></Navbar>
         )
     }
 
