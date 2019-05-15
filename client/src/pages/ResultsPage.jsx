@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
+import { Navbar } from '../components';
 
-
+/**
+ * Results from analysis is displayed here
+ */
 class ResultsPage extends Component {
 
     constructor(props) {
@@ -13,7 +16,7 @@ class ResultsPage extends Component {
 
     render() {
         return (
-            <div>Results</div>
+            <Navbar></Navbar>
         )
     }
 
