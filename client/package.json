@@ -20,7 +20,7 @@
     "mobx-react": "^5.4.3",
     "muicss": "^0.9.41",
     "node-libs-browser": "^2.2.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "react": "^16.8.6",
     "react-csv-to-table": "0.0.1",
     "react-dom": "^16.8.6",
