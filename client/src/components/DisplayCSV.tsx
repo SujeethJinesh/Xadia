@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class DisplayCSV extends Component {
+export class DisplayCSV extends Component {
     
     constructor(props) {
         super(props);
@@ -18,5 +18,3 @@ class DisplayCSV extends Component {
         );
     }
 }
-
-export default DisplayCSV;
