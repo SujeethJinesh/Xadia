@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components'
 
-import { logoImage } from './../img';
+import { logoImage } from '../img';
 
 /**
  * Container for Logo in Navbar
